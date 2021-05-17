@@ -1,2 +1,3 @@
 # point-teching-system
-教学演示系统
+
+a system for teching code program or truth of world by display logic blocks relationship
