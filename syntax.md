@@ -34,17 +34,19 @@ div .foo {
 }
 ```
 
-
-
 ## enhance attribute
 
 ### [data-length]
 
 generate a certain number of div. the number due to the keyword value. like example.
 
+### $index
 
-## preserve variables
+type: number
+
+when generate DOM element, the iterator will pass current index to "$index" in the scope.
+
 
 -----
 
-to be continute 2021.5.19
+to be continute 
