@@ -22,14 +22,14 @@ this css meas "it will generate 3 div in document, and the first div style is 'w
 
 such like "$index", this means runtime preserve variables by different keywrods;
 
-## disabled css selector
+## support css selector
 
-### descendant selector
+### child selector
 
-the #descendant selector# means used for multi cases, so  it unable to uniquely determin DOM tree 
+this selector enable to uniquely determin DOM tree.
 
 ```
-div .foo {
+div > .foo {
 
 }
 ```
